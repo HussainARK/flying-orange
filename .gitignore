@@ -1,0 +1,7 @@
+dist.cmd
+orange.ico
+orange.spec
+
+build/
+dist/
+__pycache__/
