@@ -5,3 +5,4 @@ orange.spec
 build/
 dist/
 __pycache__/
+release/
